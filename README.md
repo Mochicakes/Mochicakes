@@ -1,5 +1,3 @@
-### I lab longgdog 👋
-
 <!--
 **Mochicakes/Mochicakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://discord.com/users/749297446928121906"><img src="https://lanyard-profile-readme.vercel.app/api/749297446928121906"/></a>
+
+  <br/>
+
+  <a href="https://wakatime.com/@mokikeks" target="_blank"><img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mokikeks&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats"></a>  
+
+</div>
+
+<a href="https://wakatime.com/@af9bdf42-109c-4d62-ab57-84186ee812d6"><img alt="wakatime" src="https://wakatime.com/badge/user/af9bdf42-109c-4d62-ab57-84186ee812d6.svg"></a>
+<a href="https://hits.link"><img alt="hits" src="https://hits.link/hits?url=https://github.com/Mochicakes&bgLeft=444444&bgRight=575fff&label=visits"></a>
